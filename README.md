@@ -1,4 +1,4 @@
-![logo](https://github.com/Niloy-Aiml34/English-To-Bengali-Translation/blob/main/translation.png)
+![logo](https://github.com/Niloy-Aiml34/English-To-Bengali-Translation/blob/main/translations.png)
 
 # English to Bengali Translation
 
