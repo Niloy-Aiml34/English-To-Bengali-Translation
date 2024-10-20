@@ -15,6 +15,6 @@ This project fine-tunes a pre-trained model for English-to-Bengali translation. 
 
 ## Results
 
-![Insert Translation Result Here]("EnToBn.png")
+![EnToBn.png](https://github.com/Niloy-Aiml34/English-To-Bengali-Translation/blob/main/EnToBn.png)
 
 
