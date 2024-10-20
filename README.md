@@ -1,3 +1,5 @@
+![logo](https://github.com/Niloy-Aiml34/English-To-Bengali-Translation/blob/main/translation.png)
+
 # English to Bengali Translation
 
 This project fine-tunes a pre-trained model for English-to-Bengali translation. The model used is `shhossain/opus-mt-en-to-bn` and is fine-tuned using the `BanglaNMT` dataset.
