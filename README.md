@@ -15,6 +15,6 @@ This project fine-tunes a pre-trained model for English-to-Bengali translation. 
 
 ## Results
 
-![Insert Translation Result Here]( )
+![Insert Translation Result Here]("EnToBn.png")
 
 
