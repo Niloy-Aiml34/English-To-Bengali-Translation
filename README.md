@@ -4,6 +4,9 @@
 
 This project fine-tunes a pre-trained model for English-to-Bengali translation. The model used is `shhossain/opus-mt-en-to-bn` and is fine-tuned using the `BanglaNMT` dataset.
 
+## Colab Notebook
+  Link: https://colab.research.google.com/drive/166Q6bCKHhuPNdpKTaEHyNQBbXb5j91TU?usp=sharing
+  
 ## Model
 
 - **Base model**: `shhossain/opus-mt-en-to-bn`
